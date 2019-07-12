@@ -18,8 +18,8 @@ Version 1.4
 ### Installation
 
 ```
-/usr/local/cpanel/3rdparty/bin/git clone https://github.com/Prajithp/letsencrypt-cpanel.git
-cd letsencrypt-cpanel
+/usr/local/cpanel/3rdparty/bin/git clone https://github.com/armankt/letsencrypt-cpanel-pure-perl.git
+cd letsencrypt-cpanel-pure-perl
 ./install.sh
 ```
 
